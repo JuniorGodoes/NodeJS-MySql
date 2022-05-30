@@ -48,12 +48,3 @@ selecionar o banco
 
 selecionar tableas
 ### SHOW TABLES;
-
-
-Banco de dados MasterTech:
-Acesso Segline
-Instancia: SEGERP01\GREGOR
-Banco: GREGORPLUS
-Autenticação SQL SERVER
-User: Consultasegline
-Pass: LUL1xQlUn$rM
